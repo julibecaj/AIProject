@@ -1,2 +1,2 @@
 # AIProject
-Breast Cancer Classification
+Breast Cancer Classification - K-Nearest Neighbors (KNN)
